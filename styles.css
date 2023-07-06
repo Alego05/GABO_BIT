@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #D0CEC7;
+}
+
+header{
+    background-size: cover;
+    background-color: #D0CEC7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+}
+.navigator{
+    float:right;
+    margin: 24px;
+}
+
+.nav-menu{
+    color:white
+}
+
+.nav-menu li{
+    padding: 10px;
+    display: inline-block;
+    color:white;
+}
+
+.foto{
+    background-image: url(assets/img/gabo\ h.jpeg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100;
+    alt: Gabriel garcia marquez foto;
+}
+
+.title{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    text-align: right;
+    font-size: xxx-large;
+    font-family: sans-serif;
+}
+
+.menu-b{
+    text-align: center;
+    padding: 2px;
+    border-bottom: 2px solid black;
+}
+
+.menu-a{
+    padding: 3%;
+    margin: 150px;
+    background-color: #F2A679;
+    font-size: medium;
+    border-radius: 100px;
+}
+
+.menu-c{
+    margin: 20px;
+    padding: 30px;
+    background-color: #F2A679;
+    font-size: large;
+    border-radius: 100px;
+    border-bottom: 2px solid black;
+}
+
+.title-a{
+    text-align: center;
+    margin: 3%;
+    font-family: sans-serif;
+    font-style: bold;
+    border-radius: 100px;
+    background-color: #F2A679;
+    border-bottom: 2px solid black;
+}
+
+.table{
+    width: auto;
+    text-align: left;
+    border-spacing: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-d{
+    background-color: #0D0D0D;
+    color: white;
+    text-align: center;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.final{
+    background-color: #0D0D0D;
+    color: white;
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.finalp{
+    padding: 30px;
+}
