@@ -1,0 +1,73 @@
+Escribe un algoritmo para hacer una torta
+1. Me ubico a la cocina
+2. Saco dos huevos de gallina
+3. En un bowl rompo los dos huevos baciando solo el interior y botando las cascaras a la basura
+4. Con un tenedor bato los huevos hasta obtener un liquido homogeneo
+5. Saco la bolsa del Azucar de preferencia
+6. Con una cuchara saque una cantidad deseada de azucar y añadalo al bowl con los huevos batidos
+7. Con un tenedor vuelva a batir la mezcla hasta obtener un liquido homogeneo
+8. Saco la Leche y un vaso mediano
+9. Abro la leche y la vierto en el vaso mediano hasta llegar a su punto limite
+10. Tomo el vaso con leche y lo vierto en el bowl principal
+11. Con un tenedor vuelva a batir la mezcla hasta obtener un liquido homogeneo
+12. Ahora saco la bolsa de harina de preferencia
+13. saco un colador y una cuchara
+14. Con la cuchara saco una cantidad considerable de harina
+15. Ubico el colador arriba del bowl principal y añado la harina de la cucharada al colador 
+16. Empezar a batir con el tenedor mientras la harina cae del colador
+17. batir con el tenedor y añadir cucharadas de harina hasta tener una mezcla homogenea y un poco espesa
+18. Cuando la mezcla este lista tome un molde de torta previamente engrasado con mantequilla y vierta la mezcla
+19. Prender el horno a 180ºc girando la manija para precalentar el horno por 20 minutos
+20. Abrir el horno con guantes meter el molde con la mezcla cerrar el horno con guantes
+21. Esperar 45 minutos en un lugar comodo
+22. Despues que termine el timepo abro el horno con guantes saco la torta y cierro el horno con guantes
+23. Espere unos 15 para que la temperatura de la torta baje y disfrute su torta
+
+Escribe un algoritmo para lavarse la cara
+1. Levantarme de mi silla 
+2. Caminar hasta ubicarme en el baño
+3. Agarro el jabon especial para la cara y lo posiciono en el lavamanos
+4. Me enjuago las manos abriendo el grifo del agua y rregando agua en mis manos hasta que esten limpias y humedas
+5. Tomo el jabon sin su empaque y lo froto con mis manos humedas
+6. Con mis manos llenas de jabon y con los ojos cerrados friego el jabon en mi cara con un poco de agua hasta eliminar todo el Jabon
+7. Abro los ojos y cierro el grifo
+ 
+Escribe un algoritmo para abrir la nevera
+1. Me levanto de mi silla
+2. Camino hasta la cocina
+3. Me posiciono en frente de la nevera
+4. Estiro mi brazo y coloco mi mano en posicion para sujetar la manija de la nevera
+5. Sujeto la manija de la nevera y halo la manija
+
+Escribe un algoritmo para HACER UN SANWICH de atun
+1. Me levanto de mi silla
+2. Camino hasta la cocina 
+3. Abro la lacena, saco el pan y el atun y ciero la lacena
+4. Abro el cajon de los cubiertos, saco un cuchillo de mesa y cierro el cajon de los cubiertos
+5. Coloco todos los materiales y utencilios en el meson de la cocina
+6. Tomo la lata de atun y la abro y la dejo en el meson de la cocina
+7. Abro la bolsa del pan tomo dos panes y los dejo en el meson de la cocina para proceder a cerrar la bolsa
+8. tomo uno de los panes lo posiciono en mi mano 
+9. Agarro el cuchillo de mesa lo inserto en el interior de la lata de atun para sacar una porcion con el cuchillo
+10. Tomamos el cuchillo con el atun que acabammos de sacar y lo exparso en una cara del pan
+11. Tomamos el otro pan y cerramos ambas tajadas por el lado del atun
+12. Disfrutamos nuestro sandwich de atun
+
+Escribe un algoritmo para ir a la tienda mas cercana de tu casa
+1. Me levanto de mi silla 
+2. Me pongo unas pantuflas decentes y una chaqueta
+3. Me pongo mi bolso con las llaves de la casa y los papeles importantes
+4. Camino hasta la puerta, estiro mi brazo para agarrar la manija de la puerta con mi mano
+5. Abro la puerta y la halo 
+6. Suelto la manija y salgo de la casa
+7. Me volteo agarro la manija de la puerta y cierro la puerta
+8. Me volteo y camino hacia el assensor 
+9. Con mi mano oprimo el boton del asensor 
+10. Espero hasta que las puertas se abran y entro al asensor 
+11. Con mi dedo oprimo el boton que dice H 
+12. Espero a que se vuelvan a abrir las puertas y salgo 
+13. salgo de mi edificio
+14. salgo por la puerta del parque y en frente ubico una tiendita
+
+Escribe un algoritmo para llegar a tu casa en transporte publico desde la sede de BIT en bogotá
+profe perdoname pero esto ya esta muy largo jajaj y no me ubico en calles para llegar 
